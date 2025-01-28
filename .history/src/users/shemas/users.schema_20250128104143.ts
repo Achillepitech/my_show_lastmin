@@ -24,4 +24,4 @@ export class User {
   createdAt: Date;
 }
 
-export const UsersSchema = SchemaFactory.createForClass(User);
+export const UserSchema = SchemaFactory.createForClass(User);
